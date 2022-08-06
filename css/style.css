@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+
+}
+body {
+    padding: 0px;
+    margin: 0px;
+}
+.verde {
+    background-color: violet;
+}
+.altura1 {
+    height: 400px;
+}
+.morado {
+    margin-top: 10px;
+    background-color: purple;
+}
+.altura2 {
+    margin-top: 10px;
+    height: 80px;
+}
+.naranja {
+    margin-top: 10px;
+    background-color: orange;
+}
+.caja1 {
+    margin-top: 10px;
+    background-color: red;
+    height: 300px;
+    
+}
+.caja2 {
+    margin-top: 10px;
+    background-color: yellow;
+    height: 300px;
+    
+}
+.caja3 {
+    margin-top: 10px;
+    background-color: aqua;
+    height: 200px;
+}
+.caja4 {
+    margin-top: 10px;
+    background-color: aquamarine;
+    height: 200px;
+}
+.caja5 {
+    margin-top: 10px;
+    background-color: aqua;
+    height: 200px;
+}
+.footer {
+    margin-top: 10px;
+    background-color: green;
+    height: 250px;
+}
+
+.centrar {
+    display: flex;
+    justify-content: center;
+}
